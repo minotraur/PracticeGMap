@@ -1,0 +1,2062 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<catalog>
+	<array>
+		<Address>город Москва, улица Перерва, дом 51</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.6649748161435270</X>
+		<global_id>1712717</global_id>
+		<AmountOfPlaces>28</AmountOfPlaces>
+		<Photo>1aa66bd3-7ca9-4667-acb1-1c1827ec211a</Photo>
+		<SituationalPlan>b8d06fb5-1ec5-475b-bc4c-d9adab9bf33b</SituationalPlan>
+		<Y>37.7601174386486920</Y>
+		<AdmArea>Юго-Восточный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>2704392</UNOM>
+		<ID>75355</ID>
+		<EntryState>активна</EntryState>
+		<District>район Марьино</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Булатниковская улица, дом 9, корпус 1</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.5775460000000000</X>
+		<global_id>1712726</global_id>
+		<AmountOfPlaces>10</AmountOfPlaces>
+		<Photo>46f9bc06-1402-4177-8d40-58c2a60c756f</Photo>
+		<SituationalPlan>780b855a-47ac-47e9-a6a0-0e920fe79093</SituationalPlan>
+		<Y>37.6509360000000000</Y>
+		<AdmArea>Южный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>2965</UNOM>
+		<ID>75377</ID>
+		<EntryState>активна</EntryState>
+		<District>район Бирюлёво Западное</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Братеевская улица, дом 16, корпус 1</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.6348298700000000</X>
+		<global_id>1712727</global_id>
+		<AmountOfPlaces>38</AmountOfPlaces>
+		<Photo>1497532e-0672-4b12-92fd-eb35be76f197</Photo>
+		<SituationalPlan>350219c3-1f60-4bee-aee8-7241b0e7c64d</SituationalPlan>
+		<Y>37.7645621300000000</Y>
+		<AdmArea>Южный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>78074</UNOM>
+		<ID>75378</ID>
+		<EntryState>активна</EntryState>
+		<District>район Братеево</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Шипиловская улица, владение 50А</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.6217048800000000</X>
+		<global_id>1712728</global_id>
+		<AmountOfPlaces>26</AmountOfPlaces>
+		<Photo>6691fb24-b389-415b-afab-b279028f8a4e</Photo>
+		<SituationalPlan>ab2dc2fa-b76c-49d6-8512-ff7da1874dd6</SituationalPlan>
+		<Y>37.7378402000000000</Y>
+		<AdmArea>Южный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>3806946</UNOM>
+		<ID>75379</ID>
+		<EntryState>активна</EntryState>
+		<District>район Зябликово</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Кантемировская улица, дом 14</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.6377977000000000</X>
+		<global_id>1712729</global_id>
+		<AmountOfPlaces>18</AmountOfPlaces>
+		<Photo>3b14abe8-c24c-4a18-ac30-b64950f280f0</Photo>
+		<SituationalPlan>3f54a585-bcd3-4af9-b626-fa0bcf8daf61</SituationalPlan>
+		<Y>37.6689550800000000</Y>
+		<AdmArea>Южный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>2123194</UNOM>
+		<ID>75380</ID>
+		<EntryState>активна</EntryState>
+		<District>район Москворечье-Сабурово</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, улица Новинки, дом 31</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.6758764500000000</X>
+		<global_id>1712731</global_id>
+		<AmountOfPlaces>38</AmountOfPlaces>
+		<Photo>d0ffd133-ea89-44f1-92ac-75d1be829ffe</Photo>
+		<SituationalPlan>b5ecbd70-5a70-42ba-871a-7d6b2b5801f1</SituationalPlan>
+		<Y>37.6772377200000000</Y>
+		<AdmArea>Южный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>16413</UNOM>
+		<ID>75382</ID>
+		<EntryState>активна</EntryState>
+		<District>район Нагатинский Затон</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Домодедовская улица, дом 15</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.6086445460426190</X>
+		<global_id>1712733</global_id>
+		<AmountOfPlaces>18</AmountOfPlaces>
+		<Photo>aaafd333-7d9e-46ff-98b7-b3b1ade1ce2f</Photo>
+		<SituationalPlan>31d097fe-9c62-4a62-b926-71c03c23def9</SituationalPlan>
+		<Y>37.7102020761607620</Y>
+		<AdmArea>Южный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>2122646</UNOM>
+		<ID>75384</ID>
+		<EntryState>активна</EntryState>
+		<District>район Орехово-Борисово Южное</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Панкратьевский переулок, дом 2</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.7716690000000000</X>
+		<global_id>1712735</global_id>
+		<AmountOfPlaces>18</AmountOfPlaces>
+		<Photo>f5fd72f7-1143-4fac-a36e-f5b751046cf8</Photo>
+		<SituationalPlan>79140fda-29d3-4af0-a953-f67655390903</SituationalPlan>
+		<Y>37.6351060000000000</Y>
+		<AdmArea>Центральный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>2109732</UNOM>
+		<ID>75244</ID>
+		<EntryState>активна</EntryState>
+		<District>Красносельский район</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Комсомольский проспект, дом 22</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.7281942100000000</X>
+		<global_id>1712738</global_id>
+		<AmountOfPlaces>70</AmountOfPlaces>
+		<Photo>247aa0c5-10af-41ba-a7f6-e8695f3f1f50</Photo>
+		<SituationalPlan>5c225f85-5862-42c3-92cc-0e181a58e232</SituationalPlan>
+		<Y>37.5821653800000000</Y>
+		<AdmArea>Центральный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>2137844</UNOM>
+		<ID>75255</ID>
+		<EntryState>активна</EntryState>
+		<District>район Хамовники</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, улица Павла Корчагина, дом 2</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.8111869800000000</X>
+		<global_id>1712750</global_id>
+		<AmountOfPlaces>18</AmountOfPlaces>
+		<Photo>74a60d97-e05f-4d70-b64d-f8fca12d4b79</Photo>
+		<SituationalPlan>29a8a6d2-3c5d-47f0-ad5a-fe7b489586ed</SituationalPlan>
+		<Y>37.6546587200000000</Y>
+		<AdmArea>Северо-Восточный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>2307460</UNOM>
+		<ID>75340</ID>
+		<EntryState>активна</EntryState>
+		<District>Алексеевский район</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Измайловский проспект, дом 91А</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.7891370000000000</X>
+		<global_id>1712762</global_id>
+		<AmountOfPlaces>12</AmountOfPlaces>
+		<Photo>3b7bb105-b848-4324-a110-9ac417e96b42</Photo>
+		<SituationalPlan>b5c22dc9-f7a7-4f9d-8cf8-4efac784070d</SituationalPlan>
+		<Y>37.8063800000000000</Y>
+		<AdmArea>Восточный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>2115770</UNOM>
+		<ID>69092</ID>
+		<EntryState>активна</EntryState>
+		<District>район Восточное Измайлово</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Хабаровская улица, дом 12/23</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.8226078000000000</X>
+		<global_id>1712765</global_id>
+		<AmountOfPlaces>46</AmountOfPlaces>
+		<Photo>bc66da3f-4d8d-4d99-b630-8274b069e49f</Photo>
+		<SituationalPlan>4ac9f115-d043-4a4a-b5d0-7691af9796df</SituationalPlan>
+		<Y>37.8256508000000000</Y>
+		<AdmArea>Восточный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>28635</UNOM>
+		<ID>69094</ID>
+		<EntryState>активна</EntryState>
+		<District>район Гольяново</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Измайловская площадь, дом 1</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.7923580000000000</X>
+		<global_id>1712768</global_id>
+		<AmountOfPlaces>58</AmountOfPlaces>
+		<Photo>01c6b6e9-74ac-4923-9652-cb2f1b85ee1a</Photo>
+		<SituationalPlan>8544205d-32b6-4221-bbd5-1b84cb3c87d7</SituationalPlan>
+		<Y>37.7760350000000000</Y>
+		<AdmArea>Восточный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>19154</UNOM>
+		<ID>69095</ID>
+		<EntryState>активна</EntryState>
+		<District>район Измайлово</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, улица Маршала Тухачевского, дом 32</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.7845027600000000</X>
+		<global_id>1712774</global_id>
+		<AmountOfPlaces>50</AmountOfPlaces>
+		<Photo>c2d0524b-41bf-4e08-92fb-4852635a71f7</Photo>
+		<SituationalPlan>2d7d0f46-db60-4863-84e0-498afa4bd82d</SituationalPlan>
+		<Y>37.4726359400000000</Y>
+		<AdmArea>Северо-Западный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>26427</UNOM>
+		<ID>75401</ID>
+		<EntryState>активна</EntryState>
+		<District>район Хорошёво-Мнёвники</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, город Зеленоград, корпус 1104</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.9947143136000000</X>
+		<global_id>1712778</global_id>
+		<AmountOfPlaces>14</AmountOfPlaces>
+		<Photo>8816d98f-b2ab-4d5c-b43b-8c5261f34c25</Photo>
+		<SituationalPlan>90f9bfb6-b040-4d01-a76b-52f34448905a</SituationalPlan>
+		<Y>37.1880129712000000</Y>
+		<AdmArea>Зеленоградский административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>3700448</UNOM>
+		<ID>68934</ID>
+		<EntryState>активна</EntryState>
+		<District>район Силино</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, улица Щепкина, дом 47, строение 1</Address>
+		<PeriodOfPlacement>28.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.7813249908609950</X>
+		<global_id>1712785</global_id>
+		<AmountOfPlaces>70</AmountOfPlaces>
+		<Photo>63b4910c-a4e9-4ce9-9a61-32eb85b1d735</Photo>
+		<SituationalPlan>27e837ff-e89f-47fa-a7a8-95eba50286f0</SituationalPlan>
+		<Y>37.6290335437901720</Y>
+		<AdmArea>Центральный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>закрыто</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>2125897</UNOM>
+		<ID>75241</ID>
+		<EntryState>активна</EntryState>
+		<District>Мещанский район</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Дубравная улица, дом 35</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.8442635162129550</X>
+		<global_id>1712786</global_id>
+		<AmountOfPlaces>48</AmountOfPlaces>
+		<Photo>e624b959-f4eb-4e84-b197-bb3034299540</Photo>
+		<SituationalPlan>2b148317-0f8b-48a5-814d-3b568e1f496a</SituationalPlan>
+		<Y>37.3580787174621630</Y>
+		<AdmArea>Северо-Западный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>51750</UNOM>
+		<ID>75402</ID>
+		<EntryState>активна</EntryState>
+		<District>район Митино</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Южнобутовская улица, дом 50, корпус 4</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.5412847300000000</X>
+		<global_id>1712790</global_id>
+		<AmountOfPlaces>38</AmountOfPlaces>
+		<Photo>3695fea8-2edd-495d-8706-92efd57b49fb</Photo>
+		<SituationalPlan>eaf7ae2d-34da-45bb-84dd-d3b450aa7980</SituationalPlan>
+		<Y>37.5325267000000000</Y>
+		<AdmArea>Юго-Западный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>2900485</UNOM>
+		<ID>75398</ID>
+		<EntryState>активна</EntryState>
+		<District>район Южное Бутово</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, поселение Рязановское, посёлок Знамя Октября, микрорайон &quot;Родники&quot;, дом 4</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.4708880000000000</X>
+		<global_id>1712791</global_id>
+		<AmountOfPlaces>18</AmountOfPlaces>
+		<Photo>c1141b49-cb11-445e-b4d2-7530f01d9ca7</Photo>
+		<SituationalPlan>d4dddf70-4bb0-4fc7-a980-3b525b5205ca</SituationalPlan>
+		<Y>37.5427160000000000</Y>
+		<AdmArea>Новомосковский административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>4400876</UNOM>
+		<ID>75407</ID>
+		<EntryState>активна</EntryState>
+		<District>поселение Рязановское</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, микрорайон Северное Чертаново, корпус 806</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.6359620000000000</X>
+		<global_id>1712795</global_id>
+		<AmountOfPlaces>10</AmountOfPlaces>
+		<Photo>76d91149-e536-4367-9bbd-cf26f19383af</Photo>
+		<SituationalPlan>c92d01b0-5462-4e7f-8d87-26cb30f588f0</SituationalPlan>
+		<Y>37.5968410000000000</Y>
+		<AdmArea>Южный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>2108516</UNOM>
+		<ID>75386</ID>
+		<EntryState>активна</EntryState>
+		<District>район Чертаново Северное</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Снежная улица, дом 18</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.8519632072733500</X>
+		<global_id>1712799</global_id>
+		<AmountOfPlaces>22</AmountOfPlaces>
+		<Photo>18d7cb2e-87b8-4958-a19e-db3e0ff6d461</Photo>
+		<SituationalPlan>7aba3da3-1b45-40a9-a524-170cd9d128ec</SituationalPlan>
+		<Y>37.6475264881199150</Y>
+		<AdmArea>Северо-Восточный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>2124933</UNOM>
+		<ID>75329</ID>
+		<EntryState>активна</EntryState>
+		<District>район Свиблово</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, улица Авиаконструктора Миля, дом 7</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.6864970000000000</X>
+		<global_id>1712800</global_id>
+		<AmountOfPlaces>54</AmountOfPlaces>
+		<Photo>dddb2f1e-384d-4be0-84cf-4bca63f3d4a6</Photo>
+		<SituationalPlan>3a170531-fe41-46db-84f2-182c09804b10</SituationalPlan>
+		<Y>37.8550960000000000</Y>
+		<AdmArea>Юго-Восточный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>61178</UNOM>
+		<ID>75348</ID>
+		<EntryState>активна</EntryState>
+		<District>район Выхино-Жулебино</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Шоссейная улица, дом 4, корпус 1</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.6917858544423650</X>
+		<global_id>1712802</global_id>
+		<AmountOfPlaces>18</AmountOfPlaces>
+		<Photo>53b7aa54-21db-4a20-86a3-3a4ad77fddca</Photo>
+		<SituationalPlan>4acba6a1-82e5-495b-8e7d-754c43e938fb</SituationalPlan>
+		<Y>37.7272004730961470</Y>
+		<AdmArea>Юго-Восточный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>29736</UNOM>
+		<ID>75356</ID>
+		<EntryState>активна</EntryState>
+		<District>район Печатники</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, улица Красного Маяка, дом 3</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.6114730152635350</X>
+		<global_id>1712806</global_id>
+		<AmountOfPlaces>10</AmountOfPlaces>
+		<Photo>f1f837e4-3483-4b52-8b11-c92cb86fcea6</Photo>
+		<SituationalPlan>114cfde6-bf79-49e8-accc-a4eed0578011</SituationalPlan>
+		<Y>37.5961818012830520</Y>
+		<AdmArea>Южный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>11757</UNOM>
+		<ID>75387</ID>
+		<EntryState>активна</EntryState>
+		<District>район Чертаново Центральное</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, бульвар Дмитрия Донского, дом 17</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.5634210000000000</X>
+		<global_id>1712812</global_id>
+		<AmountOfPlaces>28</AmountOfPlaces>
+		<Photo>058f40f1-e1e7-4033-9f23-e1e28f816f16</Photo>
+		<SituationalPlan>79c7f645-112d-419a-943b-0d1bdd376049</SituationalPlan>
+		<Y>37.5739140000000000</Y>
+		<AdmArea>Юго-Западный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>31525</UNOM>
+		<ID>75395</ID>
+		<EntryState>активна</EntryState>
+		<District>район Северное Бутово</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Тарусская улица, дом 14</Address>
+		<PeriodOfPlacement>05.04.2019-29.12.2019</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.6064574200000000</X>
+		<global_id>1712816</global_id>
+		<AmountOfPlaces>48</AmountOfPlaces>
+		<Photo>1d20910d-4541-44c6-bd0f-e472e0c57b5e</Photo>
+		<SituationalPlan>1b5c373d-154d-47d1-a518-f36a184f4a67</SituationalPlan>
+		<Y>37.5299909600000000</Y>
+		<AdmArea>Юго-Западный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-20:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-20:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-20:00</Hours>
+		</WorkingHours>
+		<UNOM>2803031</UNOM>
+		<ID>75399</ID>
+		<EntryState>активна</EntryState>
+		<District>район Ясенево</District>
+		<StatusFairs>закрыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Аэрофлотская улица, владение 8А, строение 1</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.6112808300000000</X>
+		<global_id>1712821</global_id>
+		<AmountOfPlaces>10</AmountOfPlaces>
+		<Photo>dc6708ed-0f59-483d-b542-1eea258e53db</Photo>
+		<SituationalPlan>0a7d751a-fee3-41d6-8cd5-3dd04f5333a0</SituationalPlan>
+		<Y>37.2923886300000000</Y>
+		<AdmArea>Западный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>4100007</UNOM>
+		<ID>68471</ID>
+		<EntryState>активна</EntryState>
+		<District>район Внуково</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Новопеределкинская улица, дом 14</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.6416001000000000</X>
+		<global_id>1712823</global_id>
+		<AmountOfPlaces>14</AmountOfPlaces>
+		<Photo>c7b4beb8-49a7-4172-9c85-1e8914ddaf05</Photo>
+		<SituationalPlan>f063bf5d-0378-4330-bdfd-268d941d650b</SituationalPlan>
+		<Y>37.3652570800000000</Y>
+		<AdmArea>Западный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>16734</UNOM>
+		<ID>68961</ID>
+		<EntryState>активна</EntryState>
+		<District>район Ново-Переделкино</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Ярцевская улица, дом 21, корпус 1</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.7400744400000000</X>
+		<global_id>1712824</global_id>
+		<AmountOfPlaces>74</AmountOfPlaces>
+		<Photo>fbfc3a7c-9aba-41f2-8d3c-ce5c53fb10a0</Photo>
+		<SituationalPlan>8504d55a-bd72-48c3-99e5-1ac596675866</SituationalPlan>
+		<Y>37.4137024800000000</Y>
+		<AdmArea>Западный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>2126987</UNOM>
+		<ID>68962</ID>
+		<EntryState>активна</EntryState>
+		<District>район Кунцево</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Туристская улица, дом 16, корпус 2</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.8546228700000000</X>
+		<global_id>1712827</global_id>
+		<AmountOfPlaces>14</AmountOfPlaces>
+		<Photo>b2512133-5ff9-418a-80bf-5e2374e086af</Photo>
+		<SituationalPlan>c5dd8fb7-9d44-47fc-9208-4e39cd186232</SituationalPlan>
+		<Y>37.4226466600000000</Y>
+		<AdmArea>Северо-Западный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>2113826</UNOM>
+		<ID>75403</ID>
+		<EntryState>активна</EntryState>
+		<District>район Северное Тушино</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, улица 1905 Года, дом 4</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.7645170000000000</X>
+		<global_id>1712830</global_id>
+		<AmountOfPlaces>30</AmountOfPlaces>
+		<Photo>8165ea4f-3ac1-4b98-9025-192f7cc790a8</Photo>
+		<SituationalPlan>7db2a24e-1b7f-41a6-89fb-2b0f4658bbe7</SituationalPlan>
+		<Y>37.5618880000000000</Y>
+		<AdmArea>Центральный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>26502</UNOM>
+		<ID>75245</ID>
+		<EntryState>активна</EntryState>
+		<District>Пресненский район</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, улица Шаболовка, дом 44</Address>
+		<PeriodOfPlacement>28.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.7151450000000000</X>
+		<global_id>1712832</global_id>
+		<AmountOfPlaces>26</AmountOfPlaces>
+		<Photo>5ef2b6cd-cd0e-4aa2-ae3c-a69d22d0c0f4</Photo>
+		<SituationalPlan>6dcef23a-da50-48f5-8bf4-18b3f1d47367</SituationalPlan>
+		<Y>37.6068110000000000</Y>
+		<AdmArea>Южный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>закрыто</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>2113168</UNOM>
+		<ID>47946</ID>
+		<EntryState>активна</EntryState>
+		<District>Донской район</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Дмитровское шоссе, дом 13, корпус 1</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.8181390000000000</X>
+		<global_id>14024256</global_id>
+		<AmountOfPlaces>30</AmountOfPlaces>
+		<Photo>1a6565c1-eb36-43fe-91d4-0cb5cff1f7dc</Photo>
+		<SituationalPlan>42f1cd7e-45ed-4a29-aa5a-4f5e5d395f4b</SituationalPlan>
+		<Y>37.5732760000000000</Y>
+		<AdmArea>Северный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>3403146</UNOM>
+		<ID>75325</ID>
+		<EntryState>активна</EntryState>
+		<District>Тимирязевский район</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Ярославское шоссе, дом 114</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.8666270000000000</X>
+		<global_id>14024257</global_id>
+		<AmountOfPlaces>10</AmountOfPlaces>
+		<Photo>fd8803ad-53ed-4c8a-a0dd-8fd392127142</Photo>
+		<SituationalPlan>49c62576-bf4a-4545-b364-988dc1749341</SituationalPlan>
+		<Y>37.7067750000000000</Y>
+		<AdmArea>Северо-Восточный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>2306875</UNOM>
+		<ID>75338</ID>
+		<EntryState>активна</EntryState>
+		<District>Ярославский район</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, улица Маршала Катукова, дом 18</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.8070060500000000</X>
+		<global_id>14024258</global_id>
+		<AmountOfPlaces>88</AmountOfPlaces>
+		<Photo>8ac2ec9a-f728-4034-89a4-8968f6651aae</Photo>
+		<SituationalPlan>b027fa71-86b0-422d-a135-0656aa372647</SituationalPlan>
+		<Y>37.4071202600000000</Y>
+		<AdmArea>Северо-Западный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>2114708</UNOM>
+		<ID>75400</ID>
+		<EntryState>активна</EntryState>
+		<District>район Строгино</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, улица Красная Пресня, дом 1, строение 2</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.7600940000000000</X>
+		<global_id>14024262</global_id>
+		<AmountOfPlaces>14</AmountOfPlaces>
+		<Photo>cb5affa3-50a8-48a3-9a21-febb3fe697e5</Photo>
+		<SituationalPlan>14924da0-78e8-4735-8ce8-2c69c0fbf040</SituationalPlan>
+		<Y>37.5765550000000000</Y>
+		<AdmArea>Центральный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>4302244</UNOM>
+		<ID>87438</ID>
+		<EntryState>активна</EntryState>
+		<District>Пресненский район</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Октябрьская улица, дом 42</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.7926549800000000</X>
+		<global_id>14024269</global_id>
+		<AmountOfPlaces>18</AmountOfPlaces>
+		<Photo>3f943789-55fc-432f-ab25-b994f0b5fd19</Photo>
+		<SituationalPlan>7f997c63-3646-49f3-885f-a9363c0149a6</SituationalPlan>
+		<Y>37.6134049200000000</Y>
+		<AdmArea>Северо-Восточный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>17459</UNOM>
+		<ID>87455</ID>
+		<EntryState>активна</EntryState>
+		<District>район Марьина Роща</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, проспект Вернадского, дом 39</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.6763565400000000</X>
+		<global_id>14024274</global_id>
+		<AmountOfPlaces>10</AmountOfPlaces>
+		<Photo>3fff97ef-c742-4170-b943-4b8e79630ec2</Photo>
+		<SituationalPlan>6da6d0f2-e8f6-443d-820d-477baa9848a7</SituationalPlan>
+		<Y>37.5065239300000000</Y>
+		<AdmArea>Западный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>2111744</UNOM>
+		<ID>87463</ID>
+		<EntryState>активна</EntryState>
+		<District>район Проспект Вернадского</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Синельниковская улица, дом 47</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.5417182500000000</X>
+		<global_id>14024283</global_id>
+		<AmountOfPlaces>14</AmountOfPlaces>
+		<Photo>35c06c41-ecb8-4e42-bcf6-55dd6d4fa59f</Photo>
+		<SituationalPlan>5ae1bae0-70f0-4897-afe4-67134896fbe3</SituationalPlan>
+		<Y>37.5722825900000000</Y>
+		<AdmArea>Юго-Западный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>3000142</UNOM>
+		<ID>87516</ID>
+		<EntryState>активна</EntryState>
+		<District>район Южное Бутово</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, улица Академика Челомея, дом 8, корпус 1</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.6613611277841760</X>
+		<global_id>14024284</global_id>
+		<AmountOfPlaces>10</AmountOfPlaces>
+		<Photo>9f249aea-b781-4f67-bdce-c38d643a5ddb</Photo>
+		<SituationalPlan>4f7f3eb1-d276-4868-933a-e960fe354260</SituationalPlan>
+		<Y>37.5301870235150900</Y>
+		<AdmArea>Юго-Западный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>68056</UNOM>
+		<ID>80797</ID>
+		<EntryState>активна</EntryState>
+		<District>Обручевский район</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, 2-й Николощеповский переулок, дом 8</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.7488770000000000</X>
+		<global_id>38383285</global_id>
+		<AmountOfPlaces>10</AmountOfPlaces>
+		<Photo>fa831fd0-5463-4806-b4b6-d8c84c673b8d</Photo>
+		<SituationalPlan>cd6ddf06-2efb-4101-bf56-2ba63fb574d3</SituationalPlan>
+		<Y>37.5806430000000000</Y>
+		<AdmArea>Центральный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>2127638</UNOM>
+		<ID>26352</ID>
+		<EntryState>активна</EntryState>
+		<District>район Арбат</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Посланников переулок, дом 18, строение 5</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.7699710000000000</X>
+		<global_id>140185963</global_id>
+		<AmountOfPlaces>70</AmountOfPlaces>
+		<Photo>f2d295cd-7195-4ecd-b9b0-32104d8390d5</Photo>
+		<SituationalPlan>6bbea490-d2b2-4776-a067-733a07dfe899</SituationalPlan>
+		<Y>37.6817430000000000</Y>
+		<AdmArea>Центральный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>4303367</UNOM>
+		<ID>31989</ID>
+		<EntryState>активна</EntryState>
+		<District>Басманный район</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Красноармейская улица, дом 36, строение 2</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.8034130000000000</X>
+		<global_id>140186072</global_id>
+		<AmountOfPlaces>30</AmountOfPlaces>
+		<Photo>bcd0c539-ad2f-4dee-80e4-7b72d774a85c</Photo>
+		<SituationalPlan>51d1d009-11cd-446c-a6d0-d873b62832de</SituationalPlan>
+		<Y>37.5373800000000000</Y>
+		<AdmArea>Северный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>3401748</UNOM>
+		<ID>31992</ID>
+		<EntryState>активна</EntryState>
+		<District>район Аэропорт</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, улица Цандера, дом 5, строение 1</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.8176530000000000</X>
+		<global_id>140186155</global_id>
+		<AmountOfPlaces>10</AmountOfPlaces>
+		<Photo>1ee16fb1-4090-4798-a5b2-ed04f0f3062f</Photo>
+		<SituationalPlan>0e380acb-1504-44a4-bb4d-7d6fd73b94a8</SituationalPlan>
+		<Y>37.6296550000000000</Y>
+		<AdmArea>Северо-Восточный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>2125643</UNOM>
+		<ID>31998</ID>
+		<EntryState>активна</EntryState>
+		<District>Останкинский район</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Мосфильмовская улица, дом 16</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.7220330000000000</X>
+		<global_id>170683417</global_id>
+		<AmountOfPlaces>18</AmountOfPlaces>
+		<Photo>bf40fe4c-97b7-4f8d-9516-c94dc1cac4c8</Photo>
+		<SituationalPlan>51244093-1663-4bd9-bec8-aa02bf9a3535</SituationalPlan>
+		<Y>37.5245860000000000</Y>
+		<AdmArea>Западный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>15253</UNOM>
+		<ID>39619</ID>
+		<EntryState>активна</EntryState>
+		<District>район Раменки</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>Школьная улица, дом 36</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.7469920000000000</X>
+		<global_id>338008076</global_id>
+		<AmountOfPlaces>34</AmountOfPlaces>
+		<Photo>6309ed38-9be3-4728-b49e-0c57d7dd99ba</Photo>
+		<SituationalPlan>e16803e1-a58a-42f7-8220-8071ab18783e</SituationalPlan>
+		<Y>37.6815210000000000</Y>
+		<AdmArea>Центральный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>2130668</UNOM>
+		<ID>51663</ID>
+		<EntryState>активна</EntryState>
+		<District>Таганский район</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Варшавское шоссе, владение 135</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.5966961263102140</X>
+		<global_id>338008114</global_id>
+		<AmountOfPlaces>14</AmountOfPlaces>
+		<Photo>8335ed7d-69c6-4f2d-9480-0b2fc26a2d4c</Photo>
+		<SituationalPlan>4a276d24-5daa-4d2d-a814-b3df585db229</SituationalPlan>
+		<Y>37.6036275093826550</Y>
+		<AdmArea>Южный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>3804974</UNOM>
+		<ID>51672</ID>
+		<EntryState>активна</EntryState>
+		<District>район Чертаново Южное</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, улица Олеко Дундича, дом 29</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.7381398728285760</X>
+		<global_id>338008136</global_id>
+		<AmountOfPlaces>10</AmountOfPlaces>
+		<Photo>7dcf91eb-f8ec-43b0-a406-8a69e2f19b65</Photo>
+		<SituationalPlan>348cf19b-e062-4c8a-b017-45c847e7a3d4</SituationalPlan>
+		<Y>37.4834034726830860</Y>
+		<AdmArea>Западный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>7306</UNOM>
+		<ID>51676</ID>
+		<EntryState>активна</EntryState>
+		<District>район Фили-Давыдково</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Туристская улица, дом 6А</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.8485880000000000</X>
+		<global_id>338008143</global_id>
+		<AmountOfPlaces>6</AmountOfPlaces>
+		<Photo>94864682-4911-49c5-9454-c819f9c88967</Photo>
+		<SituationalPlan>dca0a448-267a-4f9e-b436-164708cca689</SituationalPlan>
+		<Y>37.4240380000000000</Y>
+		<AdmArea>Северо-Западный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>3301187</UNOM>
+		<ID>51678</ID>
+		<EntryState>активна</EntryState>
+		<District>район Южное Тушино</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, улица Маршала Савицкого, дом 12</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.5042985622887810</X>
+		<global_id>435081061</global_id>
+		<AmountOfPlaces>18</AmountOfPlaces>
+		<Photo>d9e85b4f-464d-4673-962d-c2e68dcc545e</Photo>
+		<SituationalPlan>ef9e3546-505a-4e0d-94ef-a4e3a4aecdd9</SituationalPlan>
+		<Y>37.5841668872085680</Y>
+		<AdmArea>Юго-Западный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>290238</UNOM>
+		<ID>53905</ID>
+		<EntryState>активна</EntryState>
+		<District>район Южное Бутово</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, улица Шверника, дом 19, корпус 1</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.6905010709949550</X>
+		<global_id>435081063</global_id>
+		<AmountOfPlaces>12</AmountOfPlaces>
+		<Photo>d7d2523a-2398-41af-b695-3ae6a3c4bc0b</Photo>
+		<SituationalPlan>3abb94e3-3046-4301-9e69-3145a31fccdd</SituationalPlan>
+		<Y>37.5946425374109340</Y>
+		<AdmArea>Юго-Западный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>29328</UNOM>
+		<ID>55510</ID>
+		<EntryState>активна</EntryState>
+		<District>Академический район</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, улица Молостовых, дом 13, корпус 1</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.7557214080091010</X>
+		<global_id>640478844</global_id>
+		<AmountOfPlaces>10</AmountOfPlaces>
+		<Photo>72b83917-92f5-47a1-a0c0-d429e8c134e6</Photo>
+		<SituationalPlan>a71372fe-a912-44f3-893b-04f5330bef88</SituationalPlan>
+		<Y>37.8326956537461780</Y>
+		<AdmArea>Восточный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>15115</UNOM>
+		<ID>59015</ID>
+		<EntryState>активна</EntryState>
+		<District>район Ивановское</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, 1-й Гончарный переулок, дом 4, строение 5</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.7424400000000000</X>
+		<global_id>860313905</global_id>
+		<AmountOfPlaces>12</AmountOfPlaces>
+		<Photo>5860d086-59d6-42db-a545-bf431ff49c81</Photo>
+		<SituationalPlan>33aa39fa-a8c4-4a29-8041-98c603d1d533</SituationalPlan>
+		<Y>37.6510230000000000</Y>
+		<AdmArea>Центральный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>4309283</UNOM>
+		<ID>67406</ID>
+		<EntryState>активна</EntryState>
+		<District>Таганский район</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Алтуфьевское шоссе, дом 70, корпус 1</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.8875340000000000</X>
+		<global_id>860313908</global_id>
+		<AmountOfPlaces>10</AmountOfPlaces>
+		<Photo>2da65640-aa0e-4cbc-ae5b-1ebf137f0292</Photo>
+		<SituationalPlan>905b8215-154e-4ac2-bf07-682442bb6e55</SituationalPlan>
+		<Y>37.5912060000000000</Y>
+		<AdmArea>Северо-Восточный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>2306273</UNOM>
+		<ID>67414</ID>
+		<EntryState>активна</EntryState>
+		<District>район Бибирево</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Широкая улица, дом 12А</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.8873720000000000</X>
+		<global_id>860313910</global_id>
+		<AmountOfPlaces>14</AmountOfPlaces>
+		<Photo>3a334742-5734-4316-8e96-2c07108f76c4</Photo>
+		<SituationalPlan>4754a653-d3a0-4c26-90bc-f38ba7d84ad2</SituationalPlan>
+		<Y>37.6574950000000000</Y>
+		<AdmArea>Северо-Восточный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>2111080</UNOM>
+		<ID>67417</ID>
+		<EntryState>активна</EntryState>
+		<District>район Северное Медведково</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Сиреневый бульвар, дом 60</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.8030710000000000</X>
+		<global_id>860313911</global_id>
+		<AmountOfPlaces>14</AmountOfPlaces>
+		<Photo>de34fe8e-c815-437c-9ce3-337e90fa2af0</Photo>
+		<SituationalPlan>9a0de73d-e7af-45e2-a5c2-202a4859d5d4</SituationalPlan>
+		<Y>37.8249880000000000</Y>
+		<AdmArea>Восточный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>23792</UNOM>
+		<ID>67418</ID>
+		<EntryState>активна</EntryState>
+		<District>район Восточное Измайлово</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Перовская улица, дом 32</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.7459620000000000</X>
+		<global_id>860313913</global_id>
+		<AmountOfPlaces>24</AmountOfPlaces>
+		<Photo>930e022d-f274-4eb0-83c8-da6a269b89f7</Photo>
+		<SituationalPlan>f5166983-9f28-4485-af95-52ef09594f67</SituationalPlan>
+		<Y>37.7755860000000000</Y>
+		<AdmArea>Восточный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>2503175</UNOM>
+		<ID>67421</ID>
+		<EntryState>активна</EntryState>
+		<District>район Перово</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Рязанский проспект, дом 99, корпус 6</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.7166510000000000</X>
+		<global_id>860313914</global_id>
+		<AmountOfPlaces>10</AmountOfPlaces>
+		<Photo>f581a2ff-9db9-41ef-b8ef-d1c1491e207a</Photo>
+		<SituationalPlan>32310660-a515-4d4e-be42-f46fce4a788b</SituationalPlan>
+		<Y>37.8126140000000000</Y>
+		<AdmArea>Юго-Восточный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>22431</UNOM>
+		<ID>67423</ID>
+		<EntryState>активна</EntryState>
+		<District>район Выхино-Жулебино</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Зарайская улица, дом 35</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.7305140000000000</X>
+		<global_id>860313915</global_id>
+		<AmountOfPlaces>10</AmountOfPlaces>
+		<Photo>962b8819-541e-4df1-8a92-afdd7cb1a394</Photo>
+		<SituationalPlan>be948091-5b9d-4182-b1ba-b6af44bb33d5</SituationalPlan>
+		<Y>37.7723230000000000</Y>
+		<AdmArea>Юго-Восточный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>8059</UNOM>
+		<ID>67425</ID>
+		<EntryState>активна</EntryState>
+		<District>Рязанский район</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Рублёвское шоссе, дом 48/1</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.7549560000000000</X>
+		<global_id>860313918</global_id>
+		<AmountOfPlaces>18</AmountOfPlaces>
+		<Photo>0a5cf751-8771-49c1-86b2-e39963889598</Photo>
+		<SituationalPlan>709d5e04-8d99-4b5f-b01d-37b325b719d5</SituationalPlan>
+		<Y>37.4072990000000000</Y>
+		<AdmArea>Западный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>72165</UNOM>
+		<ID>67429</ID>
+		<EntryState>активна</EntryState>
+		<District>район Крылатское</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, город Зеленоград, Привокзальная площадь, дом 1, строение 1</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.9798770000000000</X>
+		<global_id>860313919</global_id>
+		<AmountOfPlaces>10</AmountOfPlaces>
+		<Photo>5156b38c-2802-49b2-ab64-cd4205098306</Photo>
+		<SituationalPlan>908dd8ec-d0f7-488d-89f6-441f55c4f5ba</SituationalPlan>
+		<Y>37.1724120000000000</Y>
+		<AdmArea>Зеленоградский административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>3700907</UNOM>
+		<ID>67431</ID>
+		<EntryState>активна</EntryState>
+		<District>район Крюково</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Ангарская улица, дом 37/18</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.8789855571846200</X>
+		<global_id>865630754</global_id>
+		<AmountOfPlaces>14</AmountOfPlaces>
+		<Photo>f5a46796-fab4-401c-8657-49795598af8e</Photo>
+		<SituationalPlan>7c713c39-b8c1-497b-9e04-9913932327c0</SituationalPlan>
+		<Y>37.5236092241098330</Y>
+		<AdmArea>Северный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>646</UNOM>
+		<ID>71801</ID>
+		<EntryState>активна</EntryState>
+		<District>Дмитровский район</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Старый Петровско-Разумовский проезд, дом 1/23, строение 2</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.8009107528442740</X>
+		<global_id>889377827</global_id>
+		<AmountOfPlaces>26</AmountOfPlaces>
+		<Photo>dba92797-babc-48a9-8adc-f59ca6a4436d</Photo>
+		<SituationalPlan>d17d9e1f-bb79-4c3a-b9f1-c820f98029c9</SituationalPlan>
+		<Y>37.5640250158523590</Y>
+		<AdmArea>Северный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>2135445</UNOM>
+		<ID>71696</ID>
+		<EntryState>активна</EntryState>
+		<District>Савёловский район</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, улица Плещеева, дом 4А</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.8833310000000000</X>
+		<global_id>916475804</global_id>
+		<AmountOfPlaces>16</AmountOfPlaces>
+		<Photo>f33036a3-100a-456c-ba15-659c4508b98e</Photo>
+		<SituationalPlan>9c725ddf-f29e-4314-8957-0a2ab0b0859c</SituationalPlan>
+		<Y>37.6043830000000000</Y>
+		<AdmArea>Северо-Восточный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>2302208</UNOM>
+		<ID>92079</ID>
+		<EntryState>активна</EntryState>
+		<District>район Бибирево</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Профсоюзная улица, дом 109А</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.6338020000000000</X>
+		<global_id>916475906</global_id>
+		<AmountOfPlaces>18</AmountOfPlaces>
+		<Photo>1c8f51f9-49e6-4082-9de7-e83971efad39</Photo>
+		<SituationalPlan>f5f7ce7f-de89-45fd-9f02-54366999bd1c</SituationalPlan>
+		<Y>37.5209480000000000</Y>
+		<AdmArea>Юго-Западный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>5096005</UNOM>
+		<ID>92099</ID>
+		<EntryState>активна</EntryState>
+		<District>район Коньково</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, улица Островитянова, дом 18, корпус 1, строение 1</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.6365470000000000</X>
+		<global_id>916475967</global_id>
+		<AmountOfPlaces>14</AmountOfPlaces>
+		<Photo>72b5febd-7548-4ae8-87f8-d52c948b093b</Photo>
+		<SituationalPlan>89c50d64-4c6e-483b-bc72-6a5c33024267</SituationalPlan>
+		<Y>37.5109600000000000</Y>
+		<AdmArea>Юго-Западный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>2801996</UNOM>
+		<ID>92100</ID>
+		<EntryState>активна</EntryState>
+		<District>район Тёплый Стан</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, поселение Десеновское, 2-я Ватутинская улица, дом 2</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.5029400000000000</X>
+		<global_id>916476120</global_id>
+		<AmountOfPlaces>10</AmountOfPlaces>
+		<Photo>1e7ebabc-65b6-45e7-bbd9-5e2eda7b1b8e</Photo>
+		<SituationalPlan>83fef6f0-6ec1-4b92-97fe-f239bf1654f6</SituationalPlan>
+		<Y>37.3337760000000000</Y>
+		<AdmArea>Новомосковский административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-20:00</Hours>
+		</WorkingHours>
+		<UNOM>4404455</UNOM>
+		<ID>92117</ID>
+		<EntryState>активна</EntryState>
+		<District>поселение Десеновское</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Измайловское шоссе, дом 71А</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.7896230000000000</X>
+		<global_id>916476187</global_id>
+		<AmountOfPlaces>34</AmountOfPlaces>
+		<Photo>d7bc5c21-f341-43e6-8560-56ec243447bd</Photo>
+		<SituationalPlan>45940cc4-66c2-47f0-a8cf-52bf6608d0af</SituationalPlan>
+		<Y>37.7506590000000000</Y>
+		<AdmArea>Восточный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>2503723</UNOM>
+		<ID>92122</ID>
+		<EntryState>активна</EntryState>
+		<District>район Измайлово</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Зелёный проспект, дом 22</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.7510430000000000</X>
+		<global_id>916476218</global_id>
+		<AmountOfPlaces>10</AmountOfPlaces>
+		<Photo>502792c5-7856-4521-ae76-4e320eb4b5d7</Photo>
+		<SituationalPlan>599edf1b-72d7-4aae-a5d7-6d5442b7d7e7</SituationalPlan>
+		<Y>37.7884920000000000</Y>
+		<AdmArea>Восточный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>250027</UNOM>
+		<ID>92127</ID>
+		<EntryState>активна</EntryState>
+		<District>район Новогиреево</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, 3-я Парковая улица, дом 53, строение 1</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.8039230000000000</X>
+		<global_id>916476293</global_id>
+		<AmountOfPlaces>22</AmountOfPlaces>
+		<Photo>e009423d-9708-42b6-8ee0-faef053dfbe0</Photo>
+		<SituationalPlan>0ef95ce0-aea8-4986-85b3-cd47469e51f2</SituationalPlan>
+		<Y>37.7811610000000000</Y>
+		<AdmArea>Восточный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>2116246</UNOM>
+		<ID>92130</ID>
+		<EntryState>активна</EntryState>
+		<District>район Северное Измайлово</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+	<array>
+		<Address>город Москва, Краснобогатырская улица, дом 13</Address>
+		<PeriodOfPlacement>27.03.2020-28.06.2020</PeriodOfPlacement>
+		<GoodsCategory>сельскохозяйственная продукция</GoodsCategory>
+		<X>55.8148190000000000</X>
+		<global_id>916476324</global_id>
+		<AmountOfPlaces>10</AmountOfPlaces>
+		<Photo>71ea33a5-c1d6-46cd-b20d-8c7d72d74570</Photo>
+		<SituationalPlan>7aac46bb-f42d-4413-885b-1811ec1c67e3</SituationalPlan>
+		<Y>37.6950030000000000</Y>
+		<AdmArea>Восточный административный округ</AdmArea>
+		<WorkingHours>
+			<DayOfWeek>пятница</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>суббота</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<WorkingHours>
+			<DayOfWeek>воскресенье</DayOfWeek>
+			<Hours>08:00-21:00</Hours>
+		</WorkingHours>
+		<UNOM>2115197</UNOM>
+		<ID>92132</ID>
+		<EntryState>активна</EntryState>
+		<District>район Богородское</District>
+		<StatusFairs>открыто</StatusFairs>
+	</array>
+</catalog>

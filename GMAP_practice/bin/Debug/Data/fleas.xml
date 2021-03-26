@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<catalog>
+	<array>
+		<RegionOfFair>Московская Область</RegionOfFair>
+		<Address>город Москва, улица Мусы Джалиля, дом 2, корпус 2</Address>
+		<PeriodOfPlacement>15.06.2019-30.06.2019</PeriodOfPlacement>
+		<global_id>929990585</global_id>
+		<Goods>клубника и земляника</Goods>
+		<ID>249</ID>
+		
+			<Y>37.741373</Y>
+			<X>55.629919</X>
+			<type>Point</type>
+		
+		<District>район Зябликово</District>
+		<AdmArea>Южный административный округ</AdmArea>
+	</array>
+	<array>
+		<RegionOfFair>Волгоградская область</RegionOfFair>
+		<Address>город Москва, город Зеленоград, Крюковская площадь, дом 1</Address>
+		<PeriodOfPlacement>03.01.2020-07.01.2020</PeriodOfPlacement>
+		<global_id>1027028287</global_id>
+		<Goods>сельскохозяйственная продукция, продовольственная продукция, промышленные товары.</Goods>
+		<ID>39</ID>
+		
+			<Y>37.174850913799325</Y>
+			<X>55.98012131195869</X>
+			<type>Point</type>
+		
+		<District>район Старое Крюково</District>
+		<AdmArea>Зеленоградский административный округ</AdmArea>
+	</array>
+	<array>
+		<RegionOfFair>Республика Адыгея</RegionOfFair>
+		<Address>город Москва, город Зеленоград, Крюковская площадь, дом 1</Address>
+		<PeriodOfPlacement>11.01.2020-17.01.2020</PeriodOfPlacement>
+		<global_id>1027028288</global_id>
+		<Goods>сельскохозяйственная продукция, продовольственная продукция, промышленные товары.</Goods>
+		<ID>39</ID>
+		
+			<Y>37.174850913799325</Y>
+			<X>55.98012131195869</X>
+			<type>Point</type>
+		
+		<District>район Старое Крюково</District>
+		<AdmArea>Зеленоградский административный округ</AdmArea>
+	</array>
+	<array>
+		<RegionOfFair>Пензенская область</RegionOfFair>
+		<Address>город Москва, город Зеленоград, Крюковская площадь, дом 1</Address>
+		<PeriodOfPlacement>21.01.2020-27.01.2020</PeriodOfPlacement>
+		<global_id>1027028289</global_id>
+		<Goods>сельскохозяйственная продукция, продовольственная продукция, промышленные товары.</Goods>
+		<ID>39</ID>
+		
+			<Y>37.174850913799325</Y>
+			<X>55.98012131195869</X>
+			<type>Point</type>
+		
+		<District>район Старое Крюково</District>
+		<AdmArea>Зеленоградский административный округ</AdmArea>
+	</array>
+	<array>
+		<RegionOfFair>Рязанская область</RegionOfFair>
+		<Address>город Москва, Новоясеневский проспект, дом 1, строение 4</Address>
+		<PeriodOfPlacement>02.01.2020-07.01.2020</PeriodOfPlacement>
+		<global_id>1027028290</global_id>
+		<Goods>сельскохозяйственные, продовольственные и промышленные товары</Goods>
+		<ID>115</ID>
+		
+			<Y>37.510358</Y>
+			<X>55.618278</X>
+			<type>Point</type>
+		
+		<District>район Ясенево</District>
+		<AdmArea>Юго-Западный административный округ</AdmArea>
+	</array>
+	<array>
+		<RegionOfFair>Белгородская область</RegionOfFair>
+		<Address>город Москва, Новоясеневский проспект, дом 1, строение 4</Address>
+		<PeriodOfPlacement>11.01.2020-17.01.2020</PeriodOfPlacement>
+		<global_id>1027028291</global_id>
+		<Goods>сельскохозяйственные, продовольственные и промышленные товары</Goods>
+		<ID>115</ID>
+		
+			<Y>37.510358</Y>
+			<X>55.618278</X>
+			<type>Point</type>
+		
+		<District>район Ясенево</District>
+		<AdmArea>Юго-Западный административный округ</AdmArea>
+	</array>
+	<array>
+		<RegionOfFair>Калужская область</RegionOfFair>
+		<Address>город Москва, Новоясеневский проспект, дом 1, строение 4</Address>
+		<PeriodOfPlacement>21.01.2020-27.01.2020</PeriodOfPlacement>
+		<global_id>1027028292</global_id>
+		<Goods>сельскохозяйственные, продовольственные и промышленные товары</Goods>
+		<ID>115</ID>
+		
+			<Y>37.510358</Y>
+			<X>55.618278</X>
+			<type>Point</type>
+		
+		<District>район Ясенево</District>
+		<AdmArea>Юго-Западный административный округ</AdmArea>
+	</array>
+	<array>
+		<RegionOfFair>Волгоградская область</RegionOfFair>
+		<Address>город Москва, город Зеленоград, Крюковская площадь, дом 1</Address>
+		<PeriodOfPlacement>01.02.2020-07.02.2020</PeriodOfPlacement>
+		<global_id>1028513224</global_id>
+		<Goods>сельскохозяйственная продукция, продовольственная продукция, промышленные товары.</Goods>
+		<ID>39</ID>
+		
+			<Y>37.174850913799325</Y>
+			<X>55.98012131195869</X>
+			<type>Point</type>
+		
+		<District>район Старое Крюково</District>
+		<AdmArea>Зеленоградский административный округ</AdmArea>
+	</array>
+	<array>
+		<RegionOfFair>Пензенская область</RegionOfFair>
+		<Address>город Москва, город Зеленоград, Крюковская площадь, дом 1</Address>
+		<PeriodOfPlacement>11.02.2020-17.02.2020</PeriodOfPlacement>
+		<global_id>1028513225</global_id>
+		<Goods>сельскохозяйственная продукция, продовольственная продукция, промышленные товары.</Goods>
+		<ID>39</ID>
+		
+			<Y>37.174850913799325</Y>
+			<X>55.98012131195869</X>
+			<type>Point</type>
+		
+		<District>район Старое Крюково</District>
+		<AdmArea>Зеленоградский административный округ</AdmArea>
+	</array>
+	<array>
+		<RegionOfFair>Республика Адыгея</RegionOfFair>
+		<Address>город Москва, город Зеленоград, Крюковская площадь, дом 1</Address>
+		<PeriodOfPlacement>21.02.2020-27.02.2020</PeriodOfPlacement>
+		<global_id>1028513226</global_id>
+		<Goods>сельскохозяйственная продукция, продовольственная продукция, промышленные товары.</Goods>
+		<ID>39</ID>
+		
+			<Y>37.174850913799325</Y>
+			<X>55.98012131195869</X>
+			<type>Point</type>
+		
+		<District>район Старое Крюково</District>
+		<AdmArea>Зеленоградский административный округ</AdmArea>
+	</array>
+	<array>
+		<RegionOfFair>Рязанская область</RegionOfFair>
+		<Address>город Москва, Новоясеневский проспект, дом 1, строение 4</Address>
+		<PeriodOfPlacement>01.02.2020-07.02.2020</PeriodOfPlacement>
+		<global_id>1028513227</global_id>
+		<Goods>сельскохозяйственные, продовольственные и промышленные товары</Goods>
+		<ID>115</ID>
+		
+			<Y>37.510358</Y>
+			<X>55.618278</X>
+			<type>Point</type>
+		
+		<District>район Ясенево</District>
+		<AdmArea>Юго-Западный административный округ</AdmArea>
+	</array>
+	<array>
+		<RegionOfFair>Белгородская область</RegionOfFair>
+		<Address>город Москва, Новоясеневский проспект, дом 1, строение 4</Address>
+		<PeriodOfPlacement>11.02.2020-17.02.2020</PeriodOfPlacement>
+		<global_id>1028513228</global_id>
+		<Goods>сельскохозяйственные, продовольственные и промышленные товары</Goods>
+		<ID>115</ID>
+		
+			<Y>37.510358</Y>
+			<X>55.618278</X>
+			<type>Point</type>
+		
+		<District>район Ясенево</District>
+		<AdmArea>Юго-Западный административный округ</AdmArea>
+	</array>
+	<array>
+		<RegionOfFair>Калужская область</RegionOfFair>
+		<Address>город Москва, Новоясеневский проспект, дом 1, строение 4</Address>
+		<PeriodOfPlacement>21.02.2020-27.02.2020</PeriodOfPlacement>
+		<global_id>1028513229</global_id>
+		<Goods>сельскохозяйственные, продовольственные и промышленные товары</Goods>
+		<ID>115</ID>
+		
+			<Y>37.510358</Y>
+			<X>55.618278</X>
+			<type>Point</type>
+		
+		<District>район Ясенево</District>
+		<AdmArea>Юго-Западный административный округ</AdmArea>
+	</array>
+	<array>
+		<RegionOfFair>Новгородская область</RegionOfFair>
+		<Address>город Москва, город Зеленоград, Крюковская площадь, дом 1</Address>
+		<PeriodOfPlacement>01.03.2020-07.03.2020</PeriodOfPlacement>
+		<global_id>1030056022</global_id>
+		<Goods>сельскохозяйственная продукция, продовольственная продукция, промышленные товары.</Goods>
+		<ID>39</ID>
+		
+			<Y>37.174850913799325</Y>
+			<X>55.98012131195869</X>
+			<type>Point</type>
+		
+		<District>район Старое Крюково</District>
+		<AdmArea>Зеленоградский административный округ</AdmArea>
+	</array>
+	<array>
+		<RegionOfFair>Рязанская область</RegionOfFair>
+		<Address>город Москва, город Зеленоград, Крюковская площадь, дом 1</Address>
+		<PeriodOfPlacement>11.03.2020-17.03.2020</PeriodOfPlacement>
+		<global_id>1030056023</global_id>
+		<Goods>сельскохозяйственная продукция, продовольственная продукция, промышленные товары.</Goods>
+		<ID>39</ID>
+		
+			<Y>37.174850913799325</Y>
+			<X>55.98012131195869</X>
+			<type>Point</type>
+		
+		<District>район Старое Крюково</District>
+		<AdmArea>Зеленоградский административный округ</AdmArea>
+	</array>
+	<array>
+		<RegionOfFair>Тамбовская область</RegionOfFair>
+		<Address>город Москва, город Зеленоград, Крюковская площадь, дом 1</Address>
+		<PeriodOfPlacement>21.03.2020-27.03.2020</PeriodOfPlacement>
+		<global_id>1030056024</global_id>
+		<Goods>сельскохозяйственная продукция, продовольственная продукция, промышленные товары.</Goods>
+		<ID>39</ID>
+		
+			<Y>37.174850913799325</Y>
+			<X>55.98012131195869</X>
+			<type>Point</type>
+		
+		<District>район Старое Крюково</District>
+		<AdmArea>Зеленоградский административный округ</AdmArea>
+	</array>
+	<array>
+		<RegionOfFair>Рязанская область</RegionOfFair>
+		<Address>город Москва, Новоясеневский проспект, дом 1, строение 4</Address>
+		<PeriodOfPlacement>01.03.2020-07.03.2020</PeriodOfPlacement>
+		<global_id>1030056025</global_id>
+		<Goods>сельскохозяйственные, продовольственные и промышленные товары</Goods>
+		<ID>115</ID>
+		
+			<Y>37.510358</Y>
+			<X>55.618278</X>
+			<type>Point</type>
+		
+		<District>район Ясенево</District>
+		<AdmArea>Юго-Западный административный округ</AdmArea>
+	</array>
+	<array>
+		<RegionOfFair>Белгородская область</RegionOfFair>
+		<Address>город Москва, Новоясеневский проспект, дом 1, строение 4</Address>
+		<PeriodOfPlacement>11.03.2020-17.03.2020</PeriodOfPlacement>
+		<global_id>1030056026</global_id>
+		<Goods>сельскохозяйственные, продовольственные и промышленные товары</Goods>
+		<ID>115</ID>
+		
+			<Y>37.510358</Y>
+			<X>55.618278</X>
+			<type>Point</type>
+		
+		<District>район Ясенево</District>
+		<AdmArea>Юго-Западный административный округ</AdmArea>
+	</array>
+	<array>
+		<RegionOfFair>Калужская область</RegionOfFair>
+		<Address>город Москва, Новоясеневский проспект, дом 1, строение 4</Address>
+		<PeriodOfPlacement>21.03.2020-27.03.2020</PeriodOfPlacement>
+		<global_id>1030056027</global_id>
+		<Goods>сельскохозяйственные, продовольственные и промышленные товары</Goods>
+		<ID>115</ID>
+		
+			<Y>37.510358</Y>
+			<X>55.618278</X>
+			<type>Point</type>
+		
+		<District>район Ясенево</District>
+		<AdmArea>Юго-Западный административный округ</AdmArea>
+	</array>
+	<array>
+		<RegionOfFair>Рязанская область</RegionOfFair>
+		<Address>город Москва, город Зеленоград, Крюковская площадь, дом 1</Address>
+		<PeriodOfPlacement>01.04.2020-07.04.2020</PeriodOfPlacement>
+		<global_id>1032911518</global_id>
+		<Goods>сельскохозяйственная продукция, продовольственная продукция, промышленные товары.</Goods>
+		<ID>39</ID>
+		
+			<Y>37.174850913799325</Y>
+			<X>55.98012131195869</X>
+			<type>Point</type>
+		
+		<District>район Старое Крюково</District>
+		<AdmArea>Зеленоградский административный округ</AdmArea>
+	</array>
+	<array>
+		<RegionOfFair>Пензенская область</RegionOfFair>
+		<Address>город Москва, город Зеленоград, Крюковская площадь, дом 1</Address>
+		<PeriodOfPlacement>11.04.2020-17.04.2020</PeriodOfPlacement>
+		<global_id>1032911519</global_id>
+		<Goods>сельскохозяйственная продукция, продовольственная продукция, промышленные товары.</Goods>
+		<ID>39</ID>
+		
+			<Y>37.174850913799325</Y>
+			<X>55.98012131195869</X>
+			<type>Point</type>
+		
+		<District>район Старое Крюково</District>
+		<AdmArea>Зеленоградский административный округ</AdmArea>
+	</array>
+	<array>
+		<RegionOfFair>Тамбовская область</RegionOfFair>
+		<Address>город Москва, город Зеленоград, Крюковская площадь, дом 1</Address>
+		<PeriodOfPlacement>21.04.2020-27.04.2020</PeriodOfPlacement>
+		<global_id>1032911520</global_id>
+		<Goods>сельскохозяйственная продукция, продовольственная продукция, промышленные товары.</Goods>
+		<ID>39</ID>
+		
+			<Y>37.174850913799325</Y>
+			<X>55.98012131195869</X>
+			<type>Point</type>
+		
+		<District>район Старое Крюково</District>
+		<AdmArea>Зеленоградский административный округ</AdmArea>
+	</array>
+	<array>
+		<RegionOfFair>Брянская область</RegionOfFair>
+		<Address>город Москва, Краснодарская улица, дом 57, корпус 1</Address>
+		<PeriodOfPlacement>11.04.2020-17.04.2020</PeriodOfPlacement>
+		<global_id>1032911521</global_id>
+		<Goods>сельскохозяйственные, продовольственные и промышленные товары</Goods>
+		<ID>112</ID>
+		
+			<Y>37.766164</Y>
+			<X>55.676494</X>
+			<type>Point</type>
+		
+		<District>район Люблино</District>
+		<AdmArea>Юго-Восточный административный округ</AdmArea>
+	</array>
+	<array>
+		<RegionOfFair>Рязанская область</RegionOfFair>
+		<Address>город Москва, Краснодарская улица, дом 57, корпус 1</Address>
+		<PeriodOfPlacement>01.04.2020-07.04.2020</PeriodOfPlacement>
+		<global_id>1032911522</global_id>
+		<Goods>сельскохозяйственные, продовольственные и промышленные товары</Goods>
+		<ID>112</ID>
+		
+			<Y>37.766164</Y>
+			<X>55.676494</X>
+			<type>Point</type>
+		
+		<District>район Люблино</District>
+		<AdmArea>Юго-Восточный административный округ</AdmArea>
+	</array>
+	<array>
+		<RegionOfFair>Псковская область</RegionOfFair>
+		<Address>город Москва, Краснодарская улица, дом 57, корпус 1</Address>
+		<PeriodOfPlacement>21.04.2020-27.04.2020</PeriodOfPlacement>
+		<global_id>1032911523</global_id>
+		<Goods>сельскохозяйственные, продовольственные и промышленные товары</Goods>
+		<ID>112</ID>
+		
+			<Y>37.766164</Y>
+			<X>55.676494</X>
+			<type>Point</type>
+		
+		<District>район Люблино</District>
+		<AdmArea>Юго-Восточный административный округ</AdmArea>
+	</array>
+	<array>
+		<RegionOfFair>Рязанская область</RegionOfFair>
+		<Address>город Москва, Новоясеневский проспект, дом 1, строение 4</Address>
+		<PeriodOfPlacement>01.04.2020-07.04.2020</PeriodOfPlacement>
+		<global_id>1032911524</global_id>
+		<Goods>сельскохозяйственные, продовольственные и промышленные товары</Goods>
+		<ID>115</ID>
+		
+			<Y>37.510358</Y>
+			<X>55.618278</X>
+			<type>Point</type>
+		
+		<District>район Ясенево</District>
+		<AdmArea>Юго-Западный административный округ</AdmArea>
+	</array>
+	<array>
+		<RegionOfFair>Белгородская область</RegionOfFair>
+		<Address>город Москва, Новоясеневский проспект, дом 1, строение 4</Address>
+		<PeriodOfPlacement>11.04.2020-17.04.2020</PeriodOfPlacement>
+		<global_id>1032911525</global_id>
+		<Goods>сельскохозяйственные, продовольственные и промышленные товары</Goods>
+		<ID>115</ID>
+		
+			<Y>37.510358</Y>
+			<X>55.618278</X>
+			<type>Point</type>
+		
+		<District>район Ясенево</District>
+		<AdmArea>Юго-Западный административный округ</AdmArea>
+	</array>
+	<array>
+		<RegionOfFair>Калужская область</RegionOfFair>
+		<Address>город Москва, Новоясеневский проспект, дом 1, строение 4</Address>
+		<PeriodOfPlacement>21.04.2020-27.04.2020</PeriodOfPlacement>
+		<global_id>1032911526</global_id>
+		<Goods>сельскохозяйственные, продовольственные и промышленные товары</Goods>
+		<ID>115</ID>
+		
+			<Y>37.510358</Y>
+			<X>55.618278</X>
+			<type>Point</type>
+		
+		<District>район Ясенево</District>
+		<AdmArea>Юго-Западный административный округ</AdmArea>
+	</array>
+	<array>
+		<RegionOfFair>Республика Марий Эл</RegionOfFair>
+		<Address>город Москва, Зелёный проспект, дом 81</Address>
+		<PeriodOfPlacement>21.04.2020-27.04.2020</PeriodOfPlacement>
+		<global_id>1032911527</global_id>
+		<Goods>сельскохозяйственные, продовольственные и промышленные товары</Goods>
+		<ID>28</ID>
+		
+			<Y>37.819555420158196</Y>
+			<X>55.751808551299625</X>
+			<type>Point</type>
+		
+		<District>район Новогиреево</District>
+		<AdmArea>Восточный административный округ</AdmArea>
+	</array>
+	<array>
+		<RegionOfFair>Тверская область</RegionOfFair>
+		<Address>город Москва, Зелёный проспект, дом 81</Address>
+		<PeriodOfPlacement>01.04.2020-07.04.2020</PeriodOfPlacement>
+		<global_id>1032911528</global_id>
+		<Goods>сельскохозяйственные, продовольственные и промышленные товары</Goods>
+		<ID>28</ID>
+		
+			<Y>37.819555420158196</Y>
+			<X>55.751808551299625</X>
+			<type>Point</type>
+		
+		<District>район Новогиреево</District>
+		<AdmArea>Восточный административный округ</AdmArea>
+	</array>
+	<array>
+		<RegionOfFair>Белгородская область</RegionOfFair>
+		<Address>город Москва, Зелёный проспект, дом 81</Address>
+		<PeriodOfPlacement>01.04.2020-07.04.2020</PeriodOfPlacement>
+		<global_id>1032911529</global_id>
+		<Goods>сельскохозяйственные, продовольственные и промышленные товары</Goods>
+		<ID>28</ID>
+		
+			<Y>37.819555420158196</Y>
+			<X>55.751808551299625</X>
+			<type>Point</type>
+		
+		<District>район Новогиреево</District>
+		<AdmArea>Восточный административный округ</AdmArea>
+	</array>
+	<array>
+		<RegionOfFair>Ивановская область</RegionOfFair>
+		<Address>город Москва, Зелёный проспект, дом 81</Address>
+		<PeriodOfPlacement>11.04.2020-17.04.2020</PeriodOfPlacement>
+		<global_id>1032911530</global_id>
+		<Goods>сельскохозяйственные, продовольственные и промышленные товары</Goods>
+		<ID>28</ID>
+		
+			<Y>37.819555420158196</Y>
+			<X>55.751808551299625</X>
+			<type>Point</type>
+		
+		<District>район Новогиреево</District>
+		<AdmArea>Восточный административный округ</AdmArea>
+	</array>
+	<array>
+		<RegionOfFair>Удмуртская Республика</RegionOfFair>
+		<Address>город Москва, Зелёный проспект, дом 81</Address>
+		<PeriodOfPlacement>21.04.2020-27.04.2020</PeriodOfPlacement>
+		<global_id>1032911531</global_id>
+		<Goods>сельскохозяйственные, продовольственные и промышленные товары</Goods>
+		<ID>28</ID>
+		
+			<Y>37.819555420158196</Y>
+			<X>55.751808551299625</X>
+			<type>Point</type>
+		
+		<District>район Новогиреево</District>
+		<AdmArea>Восточный административный округ</AdmArea>
+	</array>
+</catalog>

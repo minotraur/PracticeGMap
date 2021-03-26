@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<catalog>
+	<array>
+		<LegalAddressOfManagementCompany>119333, Москва г, Фотиевой ул</LegalAddressOfManagementCompany>
+		<Address>город Москва, Новоясеневский проспект, дом 25/20</Address>
+		<global_id>634960233</global_id>
+		<INN>7736158254</INN>
+		<KPP>772801001</KPP>
+		<Y>37.555417</Y>
+		<X>55.599169</X>
+		<Name>ООО «БОР-1»</Name>
+		<AdmArea>Юго-Западный административный округ</AdmArea>
+		<OGRN>1037739127326</OGRN>
+		<ID>4</ID>
+		<District>район Ясенево</District>
+		<ManagementCompany>Бор-1</ManagementCompany>
+		<MarketType>Специализированный (сельскохозяйственный)</MarketType>
+	</array>
+	<array>
+		<LegalAddressOfManagementCompany>127576, Москва г, Илимская ул, дом № 1</LegalAddressOfManagementCompany>
+		<Address>город Москва, Лианозовский проезд, владение 1</Address>
+		<global_id>634960515</global_id>
+		<INN>7715039464</INN>
+		<KPP>771501001</KPP>
+		
+			<Y>37.554883</Y>
+			<X>55.897109</X>
+			<type>Point</type>
+		
+		<Name>ООО «Автохозяйство Лианозово»</Name>
+		<AdmArea>Северо-Восточный административный округ</AdmArea>
+		<OGRN>1037739118340</OGRN>
+		<ID>71</ID>
+		<District>район Лианозово</District>
+		<ManagementCompany>Автохозяйство Лианозово</ManagementCompany>
+		<MarketType>Специализированный (сельскохозяйственный)</MarketType>
+	</array>
+	<array>
+		<LegalAddressOfManagementCompany>107031, город Москва, улица Кузнецкий Мост, дом 7</LegalAddressOfManagementCompany>
+		<Address>город Москва, Часовая улица, дом 11</Address>
+		<global_id>634960785</global_id>
+		<INN>7707305962</INN>
+		<KPP>771401001</KPP>
+		
+			<Y>37.529546</Y>
+			<X>55.808488</X>
+			<type>Point</type>
+		
+		<Name>ЗАО «Калужская управляющая компания»</Name>
+		<AdmArea>Северный административный округ</AdmArea>
+		<OGRN>1027700073268</OGRN>
+		<ID>15</ID>
+		<District>район Аэропорт</District>
+		<ManagementCompany>Ленинградский рынок</ManagementCompany>
+		<MarketType>Специализированный (сельскохозяйственный)</MarketType>
+	</array>
+	<array>
+		<LegalAddressOfManagementCompany>121165, СТУДЕНЧЕСКАЯ ул, дом № 31, корпус 1, квартира дом 31</LegalAddressOfManagementCompany>
+		<Address>город Москва, улица Щорса, дом 5, корпус 1</Address>
+		<global_id>634960884</global_id>
+		<INN>7730124178</INN>
+		<KPP>773001001</KPP>
+		
+			<Y>37.40742</Y>
+			<X>55.646096</X>
+			<type>Point</type>
+		
+		<Name>ООО УК «Лагонда»</Name>
+		<AdmArea>Западный административный округ</AdmArea>
+		<OGRN>1037739549770</OGRN>
+		<ID>17</ID>
+		<District>район Солнцево</District>
+		<ManagementCompany>Сигма-ХХI век</ManagementCompany>
+		<MarketType>Специализированный (сельскохозяйственный)</MarketType>
+	</array>
+	<array>
+		<LegalAddressOfManagementCompany>129110, город Москва, проспект Мира, дом 88</LegalAddressOfManagementCompany>
+		<Address>город Москва, проспект Мира, дом 88, строение 1</Address>
+		<global_id>634961048</global_id>
+		<INN>7702079614</INN>
+		<KPP>770201001</KPP>
+		
+			<Y>37.637058</Y>
+			<X>55.793346</X>
+			<type>Point</type>
+		
+		<Name>ГУП «Рижский рынок»</Name>
+		<AdmArea>Центральный административный округ</AdmArea>
+		<OGRN>1037739490590</OGRN>
+		<ID>18</ID>
+		<District>Мещанский район</District>
+		<ManagementCompany>Рижский рынок</ManagementCompany>
+		<MarketType>Специализированный (сельскохозяйственный)</MarketType>
+	</array>
+	<array>
+		<LegalAddressOfManagementCompany>125239, город Москва, Коптевская улица, дом 24</LegalAddressOfManagementCompany>
+		<Address>город Москва, Коптевская улица, дом 24, строение 1</Address>
+		<global_id>634961204</global_id>
+		<INN>7743616917</INN>
+		<KPP>774901001</KPP>
+		
+			<Y>37.521984</Y>
+			<X>55.833476</X>
+			<type>Point</type>
+		
+		<Name>ООО «Коптевский рынок»</Name>
+		<AdmArea>Северный административный округ</AdmArea>
+		<OGRN>1067758777107</OGRN>
+		<ID>22</ID>
+		<District>район Коптево</District>
+		<ManagementCompany>Коптевский рынок</ManagementCompany>
+		<MarketType>Специализированный (сельскохозяйственный)</MarketType>
+	</array>
+	<array>
+		<LegalAddressOfManagementCompany>129281, Москва г, Лётчика Бабушкина ул, дом № 30, строение 1</LegalAddressOfManagementCompany>
+		<Address>город Москва, улица Лётчика Бабушкина, дом 30, строение 1</Address>
+		<global_id>634961303</global_id>
+		<INN>7716542938</INN>
+		<KPP>774901001</KPP>
+		
+			<Y>37.676861</Y>
+			<X>55.870152</X>
+			<type>Point</type>
+		
+		<Name>ООО «Северный рынок»</Name>
+		<AdmArea>Северо-Восточный административный округ</AdmArea>
+		<OGRN>1067746300753</OGRN>
+		<ID>26</ID>
+		<District>Лосиноостровский район</District>
+		<ManagementCompany>Северный рынок</ManagementCompany>
+		<MarketType>Специализированный (сельскохозяйственный)</MarketType>
+	</array>
+	<array>
+		<LegalAddressOfManagementCompany>143396, Москва г, Первомайское п, ВЕРХОВЬЕ (ПЕРВОМАЙСКОЕ) ДЕРЕВНЯ</LegalAddressOfManagementCompany>
+		<Address>город Москва, поселение Новофедоровское, деревня Яковлевское, дом 1</Address>
+		<global_id>634961484</global_id>
+		<INN>5030053746</INN>
+		<KPP>775101001</KPP>
+		
+			<Y>36.941086</Y>
+			<X>55.46347</X>
+			<type>Point</type>
+		
+		<Name>ООО «Свеал»</Name>
+		<AdmArea>Троицкий административный округ</AdmArea>
+		<OGRN>1065030019780</OGRN>
+		<ID>27</ID>
+		<District>поселение Новофедоровское</District>
+		<ManagementCompany>СВЕАЛ</ManagementCompany>
+		<MarketType>Универсальный</MarketType>
+	</array>
+	<array>
+		<LegalAddressOfManagementCompany>111141, Москва г, Кусковская ул, дом № 31А</LegalAddressOfManagementCompany>
+		<Address>город Москва, Суздальская улица, дом 25А, строение 1</Address>
+		<global_id>634961621</global_id>
+		<INN>7702016340</INN>
+		<KPP>772001001</KPP>
+		
+			<Y>37.878632</Y>
+			<X>55.747698</X>
+			<type>Point</type>
+		
+		<Name>ООО «Крона-Маркет»</Name>
+		<AdmArea>Восточный административный округ</AdmArea>
+		<OGRN>1027739134829</OGRN>
+		<ID>29</ID>
+		<District>район Новокосино</District>
+		<ManagementCompany>Крона-Маркет</ManagementCompany>
+		<MarketType>Универсальный</MarketType>
+	</array>
+	<array>
+		<LegalAddressOfManagementCompany>107061, Москва г, Преображенский Вал ул, дом № 17</LegalAddressOfManagementCompany>
+		<Address>город Москва, улица Преображенский Вал, дом 17, строение 1</Address>
+		<global_id>634961733</global_id>
+		<INN>7718016306</INN>
+		<KPP>771801001</KPP>
+		
+			<Y>37.718787</Y>
+			<X>55.793149</X>
+			<type>Point</type>
+		
+		<Name>ГУП «М.Прогресс» (Преображенский рынок)</Name>
+		<AdmArea>Восточный административный округ</AdmArea>
+		<OGRN>1027700348510</OGRN>
+		<ID>30</ID>
+		<District>район Преображенское</District>
+		<ManagementCompany>ГУП «М.Прогресс»</ManagementCompany>
+		<MarketType>Специализированный (сельскохозяйственный)</MarketType>
+	</array>
+	<array>
+		<LegalAddressOfManagementCompany>140011, Московская область, Люберецкий район, город Люберцы, Шоссейная улица, дом 2</LegalAddressOfManagementCompany>
+		<Address>город Москва, Новочеркасский бульвар, владение 5А, строение 1</Address>
+		<global_id>634962123</global_id>
+		<INN>5027040779</INN>
+		<KPP>502701001</KPP>
+		
+			<Y>37.719471</Y>
+			<X>55.646725</X>
+			<type>Point</type>
+		
+		<Name>ООО «Барс-2»</Name>
+		<AdmArea>Юго-Восточный административный округ</AdmArea>
+		<OGRN>1025003213751</OGRN>
+		<ID>37</ID>
+		<District>район Марьино</District>
+		<ManagementCompany>Барс-2</ManagementCompany>
+		<MarketType>Специализированный (сельскохозяйственный)</MarketType>
+	</array>
+	<array>
+		<LegalAddressOfManagementCompany>Москва г, Люблинская ул, дом № 10-12</LegalAddressOfManagementCompany>
+		<Address>город Москва, Люблинская улица, дом 10, строение 1</Address>
+		<global_id>634962356</global_id>
+		<INN>7723001859</INN>
+		<KPP>772301001</KPP>
+		
+			<Y>37.731897</Y>
+			<X>55.700639</X>
+			<type>Point</type>
+		
+		<Name>ГУП «Люблинский рынок»</Name>
+		<AdmArea>Юго-Восточный административный округ</AdmArea>
+		<OGRN>1027739113984</OGRN>
+		<ID>40</ID>
+		<District>район Текстильщики</District>
+		<ManagementCompany>ЛЮБЛИНСКИЙ РЫНОК</ManagementCompany>
+		<MarketType>Специализированный (сельскохозяйственный)</MarketType>
+	</array>
+	<array>
+		<LegalAddressOfManagementCompany>109280, ВЕЛОЗАВОДСКАЯ ул, дом № 13, корпус Велозаводская улица, квартира дом 13</LegalAddressOfManagementCompany>
+		<Address>город Москва, Велозаводская улица, дом 13, строение 1</Address>
+		<global_id>634962532</global_id>
+		<INN>7723079559</INN>
+		<KPP>774901001</KPP>
+		
+			<Y>37.668006</Y>
+			<X>55.710456</X>
+			<type>Point</type>
+		
+		<Name>ОАО «Велозаводский рынок»</Name>
+		<AdmArea>Юго-Восточный административный округ</AdmArea>
+		<OGRN>1037739474992</OGRN>
+		<ID>41</ID>
+		<District>Южнопортовый район</District>
+		<ManagementCompany>Велозаводский рынок</ManagementCompany>
+		<MarketType>Специализированный (сельскохозяйственный)</MarketType>
+	</array>
+	<array>
+		<LegalAddressOfManagementCompany>115191, город Москва, Мытная улица, дом 74</LegalAddressOfManagementCompany>
+		<Address>город Москва, Мытная улица, дом 74</Address>
+		<global_id>634962619</global_id>
+		<INN>7725582006</INN>
+		<KPP>772501001</KPP>
+		
+			<Y>37.620375</Y>
+			<X>55.712142</X>
+			<type>Point</type>
+		
+		<Name>АО «Даниловский рынок»</Name>
+		<AdmArea>Южный административный округ</AdmArea>
+		<OGRN>5067746654377</OGRN>
+		<ID>42</ID>
+		<District>Даниловский район</District>
+		<ManagementCompany>Даниловский рынок</ManagementCompany>
+		<MarketType>Специализированный (сельскохозяйственный)</MarketType>
+	</array>
+	<array>
+		<LegalAddressOfManagementCompany>115516, город Москва, Каспийская улица, дом 36</LegalAddressOfManagementCompany>
+		<Address>город Москва, Каспийская улица, дом 36</Address>
+		<global_id>634962886</global_id>
+		<INN>7724561282</INN>
+		<KPP>772401001</KPP>
+		
+			<Y>37.667025</Y>
+			<X>55.618861</X>
+			<type>Point</type>
+		
+		<Name>ОАО Рыночный комплекс Царицинский</Name>
+		<AdmArea>Южный административный округ</AdmArea>
+		<OGRN>1057749116039</OGRN>
+		<ID>45</ID>
+		<District>район Царицыно</District>
+		<ManagementCompany>Рыночный комплекс «Царицынский»</ManagementCompany>
+		<MarketType>Специализированный (сельскохозяйственный)</MarketType>
+	</array>
+	<array>
+		<LegalAddressOfManagementCompany>117588, Москва г, Новоясеневский пр-кт, дом № 1</LegalAddressOfManagementCompany>
+		<Address>город Москва, Профсоюзная улица, строение Б/Н</Address>
+		<global_id>634962939</global_id>
+		<INN>7728867296</INN>
+		<KPP>772701001</KPP>
+		
+			<Y>37.508853</Y>
+			<X>55.618151</X>
+			<type>Point</type>
+		
+		<Name>ЗАО «Калужская сельскохозяйственная ярмарка»</Name>
+		<AdmArea>Юго-Западный административный округ</AdmArea>
+		<OGRN>1147746020510</OGRN>
+		<ID>50</ID>
+		<District>район Ясенево</District>
+		<ManagementCompany>Калужская сельскохозяйственная ярмарка</ManagementCompany>
+		<MarketType>Специализированный (сельскохозяйственный)</MarketType>
+	</array>
+	<array>
+		<LegalAddressOfManagementCompany>Москва г, Теплый Стан ул, дом № 1Б,  3</LegalAddressOfManagementCompany>
+		<Address>город Москва, улица Тёплый Стан, владение 1Б, строение 1</Address>
+		<global_id>634963249</global_id>
+		<INN>7724506193</INN>
+		<KPP>772801001</KPP>
+		
+			<Y>37.50132</Y>
+			<X>55.618773</X>
+			<type>Point</type>
+		
+		<Name>ЗАО «Стройтехинвест»</Name>
+		<AdmArea>Юго-Западный административный округ</AdmArea>
+		<OGRN>1047796118336</OGRN>
+		<ID>51</ID>
+		<District>район Тёплый Стан</District>
+		<ManagementCompany>СТРОЙТЕХиНВЕСТ</ManagementCompany>
+		<MarketType>Специализированный (сельскохозяйственный)</MarketType>
+	</array>
+	<array>
+		<LegalAddressOfManagementCompany>117292, Москва г, ПРОФСОЮЗНАЯ ул, дом № ДОМ 4, корпус КОРПУС 4</LegalAddressOfManagementCompany>
+		<Address>город Москва, Новоясеневский проспект, дом 1Б, корпус 2</Address>
+		<global_id>634963314</global_id>
+		<INN>7715073017</INN>
+		<KPP>772801001</KPP>
+		
+			<Y>37.509531</Y>
+			<X>55.618209</X>
+			<type>Point</type>
+		
+		<Name>ООО «ТК-Карен»</Name>
+		<AdmArea>Юго-Западный административный округ</AdmArea>
+		<OGRN>1027739663258</OGRN>
+		<ID>79</ID>
+		<District>район Ясенево</District>
+		<ManagementCompany>Торговая компания - КАРЕН</ManagementCompany>
+		<MarketType>Специализированный (сельскохозяйственный)</MarketType>
+	</array>
+	<array>
+		<LegalAddressOfManagementCompany>142191, Москва г, Троицк г, Городская ул, дом № 6</LegalAddressOfManagementCompany>
+		<Address>город Москва, улица Вавилова, дом 64/1, строение 1</Address>
+		<global_id>634963478</global_id>
+		<INN>7751508009</INN>
+		<KPP>775101001</KPP>
+		
+			<Y>37.550567</Y>
+			<X>55.683919</X>
+			<type>Point</type>
+		
+		<Name>ООО «Черемушкинский торг»</Name>
+		<AdmArea>Юго-Западный административный округ</AdmArea>
+		<OGRN>1127747278020</OGRN>
+		<ID>53</ID>
+		<District>Гагаринский район</District>
+		<ManagementCompany>Руслан</ManagementCompany>
+		<MarketType>Специализированный (сельскохозяйственный)</MarketType>
+	</array>
+	<array>
+		<LegalAddressOfManagementCompany>121151, Москва г, Можайский Вал ул, дом № 10, комната 6</LegalAddressOfManagementCompany>
+		<Address>город Москва, улица Можайский Вал, дом 10</Address>
+		<global_id>634963692</global_id>
+		<INN>7731002422</INN>
+		<KPP>773001001</KPP>
+		
+			<Y>37.554205</Y>
+			<X>55.742823</X>
+			<type>Point</type>
+		
+		<Name>АО «Данвита» (Дорогомиловский рынок)</Name>
+		<AdmArea>Западный административный округ</AdmArea>
+		<OGRN>1027700470490</OGRN>
+		<ID>54</ID>
+		<District>район Дорогомилово</District>
+		<ManagementCompany>ДАНВИТА</ManagementCompany>
+		<MarketType>Специализированный (сельскохозяйственный)</MarketType>
+	</array>
+	<array>
+		<LegalAddressOfManagementCompany>121354, город Москва, улица Маршала Неделина, дом 19</LegalAddressOfManagementCompany>
+		<Address>город Москва, улица Маршала Неделина, дом 19</Address>
+		<global_id>634963783</global_id>
+		<INN>7731540043</INN>
+		<KPP>773101001</KPP>
+		
+			<Y>37.406954</Y>
+			<X>55.725998</X>
+			<type>Point</type>
+		
+		<Name>ОАО «Кунцевский рынок»</Name>
+		<AdmArea>Западный административный округ</AdmArea>
+		<OGRN>1067746394165</OGRN>
+		<ID>56</ID>
+		<District>Можайский район</District>
+		<ManagementCompany>Кунцевский рынок</ManagementCompany>
+		<MarketType>Специализированный (сельскохозяйственный)</MarketType>
+	</array>
+	<array>
+		<LegalAddressOfManagementCompany>142191, Москва г, Троицк г, Академика Верещагина пл, дом № 1</LegalAddressOfManagementCompany>
+		<Address>город Москва, город Троицк, Октябрьский проспект, дом 16Б</Address>
+		<global_id>634963909</global_id>
+		<INN>5046041506</INN>
+		<KPP>775101001</KPP>
+		
+			<Y>37.298387</Y>
+			<X>55.476547</X>
+			<type>Point</type>
+		
+		<Name>МУП «Магазин Центральный»</Name>
+		<AdmArea>Троицкий административный округ</AdmArea>
+		<OGRN>1035009352223</OGRN>
+		<ID>63</ID>
+		<District>поселение Троицк</District>
+		<ManagementCompany>г. Троицка Магазин «Центральный»</ManagementCompany>
+		<MarketType>Универсальный</MarketType>
+	</array>
+	<array>
+		<LegalAddressOfManagementCompany>142791, город Москва, поселение Воскресенское,поселок подсобного хозяйства Воскресенское, дом 28</LegalAddressOfManagementCompany>
+		<Address>город Москва, поселение Воскресенское, посёлок Воскресенское, дом 28А</Address>
+		<global_id>634964048</global_id>
+		<INN>5003025179</INN>
+		<KPP>775101001</KPP>
+		
+			<Y>37.444456</Y>
+			<X>55.529558</X>
+			<type>Point</type>
+		
+		<Name>ООО «Сампо»</Name>
+		<AdmArea>Новомосковский административный округ</AdmArea>
+		<OGRN>1035000906544</OGRN>
+		<ID>66</ID>
+		<District>поселение Воскресенское</District>
+		<ManagementCompany>Сампо</ManagementCompany>
+		<MarketType>Специализированный (сельскохозяйственный)</MarketType>
+	</array>
+	<array>
+		<LegalAddressOfManagementCompany>129110, город Москва, Водопроводный переулок, дом 1</LegalAddressOfManagementCompany>
+		<Address>город Москва, проспект Мира, владение 98А, строение 1</Address>
+		<global_id>634964186</global_id>
+		<INN>7709008637</INN>
+		<KPP>773001001</KPP>
+		
+			<Y>37.637758</Y>
+			<X>55.79643</X>
+			<type>Point</type>
+		
+		<Name>ООО «Илион Трейд»</Name>
+		<AdmArea>Северо-Восточный административный округ</AdmArea>
+		<OGRN>1027700077680</OGRN>
+		<ID>69</ID>
+		<District>Алексеевский район</District>
+		<ManagementCompany>Фирма «ИЛИОН-ТРЕЙД»</ManagementCompany>
+		<MarketType>Специализированный (радиорынок)</MarketType>
+	</array>
+	<array>
+		<LegalAddressOfManagementCompany>109429, МКАД 14 КИЛОМЕТР ДОРОГА, дом № 2, строение СТР.3, квартира владение 2</LegalAddressOfManagementCompany>
+		<Address>МКАД, 14-й километр, дом 2, строение 1</Address>
+		<global_id>885653837</global_id>
+		<INN>7723129143</INN>
+		<KPP>774901001</KPP>
+		
+			<Y>37.8343</Y>
+			<X>55.654689</X>
+			<type>Point</type>
+		
+		<Name>ООО Оптово-розничный рынок Садовод</Name>
+		<AdmArea>Юго-Восточный административный округ</AdmArea>
+		<OGRN>1027739334127</OGRN>
+		<ID>33</ID>
+		<District>район Капотня</District>
+		<ManagementCompany>Оптово-розничный рынок «Садовод»</ManagementCompany>
+		<MarketType>Универсальный</MarketType>
+	</array>
+	<array>
+		<LegalAddressOfManagementCompany>117556, город Москва, Симферопольский бульвар, дом 11/12</LegalAddressOfManagementCompany>
+		<Address>город Москва, Болотниковская улица, дом 12</Address>
+		<global_id>969666305</global_id>
+		<INN>7726063620</INN>
+		<KPP>772601001</KPP>
+		
+			<Y>37.606182</Y>
+			<X>55.656712</X>
+			<type>Point</type>
+		
+		<Name>ООО «Москворецкий рынок»</Name>
+		<AdmArea>Южный административный округ</AdmArea>
+		<OGRN>1027700244307</OGRN>
+		<ID>43</ID>
+		<District>Нагорный район</District>
+		<ManagementCompany>Москворецкий рынок</ManagementCompany>
+		<MarketType>Специализированный (сельскохозяйственный)</MarketType>
+	</array>
+	<array>
+		<LegalAddressOfManagementCompany>124575, ЗЕЛЕНОГРАД г, 124575 , МОСКВА ГОРОД, ГОРОД ЗЕЛЕНОГРАД, УЛИЦА ПАНФИЛОВА, ПАНФИЛОВА ул, строение № СТРОЕНИЕ 1</LegalAddressOfManagementCompany>
+		<Address>город Москва, город Зеленоград, улица Панфилова, дом 13, строение 1</Address>
+		<global_id>1010306150</global_id>
+		<INN>7735085733</INN>
+		<KPP>773501001</KPP>
+		
+			<Y>37.17249900000001</Y>
+			<X>55.98245282381894</X>
+			<type>Point</type>
+		
+		<Name>ООО «Вит-Сириус»</Name>
+		<AdmArea>Зеленоградский административный округ</AdmArea>
+		<OGRN>1027700539613</OGRN>
+		<ID>80</ID>
+		<District>район Силино</District>
+		<ManagementCompany>ВИТ-СИРИУС</ManagementCompany>
+		<MarketType>Специализированный (сельскохозяйственный)</MarketType>
+	</array>
+</catalog>
